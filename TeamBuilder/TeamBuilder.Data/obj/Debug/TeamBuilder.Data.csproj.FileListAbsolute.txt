@@ -1,0 +1,12 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\TeamBuilder.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\TeamBuilder\TeamBuilder.Data\obj\Debug\TeamBuilder.Data.pdb

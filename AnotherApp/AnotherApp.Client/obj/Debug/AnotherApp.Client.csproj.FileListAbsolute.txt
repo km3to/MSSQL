@@ -1,0 +1,1 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AnotherApp\AnotherApp.Client\bin\Debug\AnotherApp.Client.exe.config

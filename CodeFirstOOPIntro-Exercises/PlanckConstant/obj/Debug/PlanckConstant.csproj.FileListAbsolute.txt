@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\PlanckConstant\bin\Debug\PlanckConstant.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\PlanckConstant\bin\Debug\PlanckConstant.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\PlanckConstant\bin\Debug\PlanckConstant.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\PlanckConstant\obj\Debug\PlanckConstant.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\PlanckConstant\obj\Debug\PlanckConstant.pdb

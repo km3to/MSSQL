@@ -1,0 +1,15 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\BookCatalog.Data.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\BookCatalog.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\BookCatalog.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\BookCatalog.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\BookCatalog.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\obj\Debug\BookCatalog.Data.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\obj\Debug\BookCatalog.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\obj\Debug\BookCatalog.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\obj\Debug\BookCatalog.Data.Migrations.InitialCreate.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\obj\Debug\BookCatalog.Data.csproj.GenerateResource.Cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Data\obj\Debug\BookCatalog.Data.Migrations.ChangeBookNameToTitle.resources

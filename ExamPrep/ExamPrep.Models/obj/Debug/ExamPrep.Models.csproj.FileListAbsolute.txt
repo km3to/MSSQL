@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.pdb

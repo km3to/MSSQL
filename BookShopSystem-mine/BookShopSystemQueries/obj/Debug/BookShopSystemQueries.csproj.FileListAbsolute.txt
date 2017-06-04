@@ -1,0 +1,12 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\BookShopSystemQueries.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\BookShopSystemQueries.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\BookShopSystemQueries.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\BookShopSystem.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\BookShopSystem.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\obj\Debug\BookShopSystemQueries.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\obj\Debug\BookShopSystemQueries.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\BookShopSystemQueries\obj\Debug\BookShopSystemQueries.pdb

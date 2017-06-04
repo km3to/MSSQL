@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\SoftUni.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\SoftUni.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\SoftUni.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\obj\Debug\SoftUni.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\obj\Debug\SoftUni.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookShopSystem-mine\SoftUni\obj\Debug\SoftUni.pdb

@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\GringottsDatabase.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\GringottsDatabase.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\GringottsDatabase.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\obj\Debug\GringottsDatabase.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\obj\Debug\GringottsDatabase.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\GringottsDatabase\obj\Debug\GringottsDatabase.pdb

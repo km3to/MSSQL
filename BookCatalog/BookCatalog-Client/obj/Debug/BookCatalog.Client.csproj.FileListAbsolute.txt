@@ -1,0 +1,16 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog-Client.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog-Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog-Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\obj\Debug\BookCatalog.Client.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\obj\Debug\BookCatalog-Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\obj\Debug\BookCatalog-Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog.Bussiness.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog.Bussiness.pdb

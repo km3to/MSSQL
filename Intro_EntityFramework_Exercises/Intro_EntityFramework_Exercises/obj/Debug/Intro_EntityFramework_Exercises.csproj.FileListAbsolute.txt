@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\Intro_EntityFramework_Exercises.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\Intro_EntityFramework_Exercises.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\Intro_EntityFramework_Exercises.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\obj\Debug\Intro_EntityFramework_Exercises.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\obj\Debug\Intro_EntityFramework_Exercises.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Intro_EntityFramework_Exercises\Intro_EntityFramework_Exercises\obj\Debug\Intro_EntityFramework_Exercises.pdb

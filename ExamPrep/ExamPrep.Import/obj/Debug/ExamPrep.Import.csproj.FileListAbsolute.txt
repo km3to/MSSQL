@@ -1,0 +1,14 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Import.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Import.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Import.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\ExamPrep.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\obj\Debug\ExamPrep.Import.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\obj\Debug\ExamPrep.Import.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Import\obj\Debug\ExamPrep.Import.pdb

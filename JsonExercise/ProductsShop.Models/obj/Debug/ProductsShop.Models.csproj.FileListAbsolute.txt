@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

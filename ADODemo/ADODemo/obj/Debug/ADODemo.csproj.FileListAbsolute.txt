@@ -1,0 +1,6 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ADODemo\ADODemo\bin\Debug\ADODemo.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ADODemo\ADODemo\bin\Debug\ADODemo.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ADODemo\ADODemo\bin\Debug\ADODemo.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ADODemo\ADODemo\obj\Debug\ADODemo.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ADODemo\ADODemo\obj\Debug\ADODemo.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ADODemo\ADODemo\obj\Debug\ADODemo.pdb

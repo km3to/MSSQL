@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\Students\bin\Debug\Students.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\Students\bin\Debug\Students.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\Students\bin\Debug\Students.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\Students\obj\Debug\Students.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\Students\obj\Debug\Students.pdb

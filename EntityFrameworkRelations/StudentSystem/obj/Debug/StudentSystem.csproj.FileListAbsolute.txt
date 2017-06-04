@@ -1,0 +1,13 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.Migrations.InitialCreate.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.csproj.GenerateResource.Cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\StudentSystem\obj\Debug\StudentSystem.Migrations.AddLicenses.resources

@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CreatePersonConstructors\bin\Debug\CreatePersonConstructors.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CreatePersonConstructors\bin\Debug\CreatePersonConstructors.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CreatePersonConstructors\bin\Debug\CreatePersonConstructors.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CreatePersonConstructors\obj\Debug\CreatePersonConstructors.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CreatePersonConstructors\obj\Debug\CreatePersonConstructors.pdb

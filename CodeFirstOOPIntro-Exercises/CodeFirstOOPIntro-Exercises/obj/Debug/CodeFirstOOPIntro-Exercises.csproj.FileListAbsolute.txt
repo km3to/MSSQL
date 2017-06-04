@@ -1,0 +1,6 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CodeFirstOOPIntro-Exercises\bin\Debug\CodeFirstOOPIntro-Exercises.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CodeFirstOOPIntro-Exercises\bin\Debug\CodeFirstOOPIntro-Exercises.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CodeFirstOOPIntro-Exercises\bin\Debug\CodeFirstOOPIntro-Exercises.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CodeFirstOOPIntro-Exercises\obj\Debug\CodeFirstOOPIntro-Exercises.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CodeFirstOOPIntro-Exercises\obj\Debug\CodeFirstOOPIntro-Exercises.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\CodeFirstOOPIntro-Exercises\obj\Debug\CodeFirstOOPIntro-Exercises.pdb

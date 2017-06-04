@@ -1,0 +1,14 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\OrganizerLive.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\OrganizerLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\OrganizerLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\Organizer.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\Organizer.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\Organizer.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\Organizer.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\obj\Debug\OrganizerLive.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\obj\Debug\OrganizerLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\OrganizerLive\obj\Debug\OrganizerLive.pdb

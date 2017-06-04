@@ -1,0 +1,12 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.pdb

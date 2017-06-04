@@ -1,0 +1,15 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Tests.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Tests.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\obj\Debug\PhotoShare.Tests.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\PhotoShare.Tests.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Tests\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,1 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PhotoShare\PhotoShare.Service\obj\Debug\PhotoShare.Service.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Models\bin\Debug\BookCatalog.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Models\bin\Debug\BookCatalog.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Models\obj\Debug\BookCatalog.Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Models\obj\Debug\BookCatalog.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Models\obj\Debug\BookCatalog.Models.pdb

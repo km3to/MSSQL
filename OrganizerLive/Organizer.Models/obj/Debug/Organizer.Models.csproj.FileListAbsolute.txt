@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\Organizer.Models\bin\Debug\Organizer.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\Organizer.Models\bin\Debug\Organizer.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\Organizer.Models\obj\Debug\Organizer.Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\Organizer.Models\obj\Debug\Organizer.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\OrganizerLive\Organizer.Models\obj\Debug\Organizer.Models.pdb

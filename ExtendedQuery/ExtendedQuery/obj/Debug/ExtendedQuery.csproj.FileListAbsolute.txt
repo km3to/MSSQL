@@ -1,0 +1,16 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\ExtendedQuery.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\ExtendedQuery.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\ExtendedQuery.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.Migrations.InitialCreate.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.csproj.GenerateResource.Cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.Migrations.AddedAddressToclient.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\EntityFramework.Extended.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\bin\Debug\EntityFramework.Extended.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExtendedQuery\ExtendedQuery\obj\Debug\ExtendedQuery.Migrations.AddedAgeToClient.resources

@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\CarDealer.Models\obj\Debug\CarDealer.Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\CarDealer.Models\obj\Debug\CarDealer.Models.pdb

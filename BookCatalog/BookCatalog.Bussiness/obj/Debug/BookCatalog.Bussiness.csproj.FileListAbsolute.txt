@@ -1,0 +1,11 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\BookCatalog.Bussiness.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\BookCatalog.Bussiness.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\obj\Debug\BookCatalog.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\obj\Debug\BookCatalog.Bussiness.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\obj\Debug\BookCatalog.Bussiness.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\BookCatalog.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\BookCatalog.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\BookCatalog.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog.Bussiness\bin\Debug\BookCatalog.Models.pdb

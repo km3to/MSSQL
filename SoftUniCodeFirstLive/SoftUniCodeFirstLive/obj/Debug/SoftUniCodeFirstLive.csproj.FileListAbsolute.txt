@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\SoftUniCodeFirstLive.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\SoftUniCodeFirstLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\SoftUniCodeFirstLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\obj\Debug\SoftUniCodeFirstLive.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\obj\Debug\SoftUniCodeFirstLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\SoftUniCodeFirstLive\obj\Debug\SoftUniCodeFirstLive.pdb

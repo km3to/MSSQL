@@ -1,0 +1,1 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\BookCatalog\BookCatalog-Client\bin\Debug\BookCatalog-Client.exe.config

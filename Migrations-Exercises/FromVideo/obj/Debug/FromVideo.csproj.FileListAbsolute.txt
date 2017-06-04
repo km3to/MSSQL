@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\FromVideo.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\FromVideo.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\FromVideo.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\obj\Debug\FromVideo.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\obj\Debug\FromVideo.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\FromVideo\obj\Debug\FromVideo.pdb

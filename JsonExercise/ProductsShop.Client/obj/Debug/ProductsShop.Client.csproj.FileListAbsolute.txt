@@ -1,0 +1,16 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Client.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\ProductsShop.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\obj\Debug\ProductsShop.Client.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\obj\Debug\ProductsShop.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\obj\Debug\ProductsShop.Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\JsonExercise\ProductsShop.Client\bin\Debug\Newtonsoft.Json.xml

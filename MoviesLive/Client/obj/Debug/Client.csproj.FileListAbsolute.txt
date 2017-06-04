@@ -1,0 +1,14 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Client.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\obj\Debug\Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Client\obj\Debug\Client.pdb

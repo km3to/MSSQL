@@ -1,0 +1,12 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Client.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\ExamPrep.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\obj\Debug\ExamPrep.Client.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\obj\Debug\ExamPrep.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ExamPrep\ExamPrep.Client\obj\Debug\ExamPrep.Client.pdb

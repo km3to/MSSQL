@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8769DC5A-8E35-47C0-9FE2-882420696C69}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChirperLive</RootNamespace>
+    <AssemblyName>ChirperLive</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChirperContext.cs" />
+    <Compile Include="Migrations\201703141703191_InitialCreate.cs" />
+    <Compile Include="Migrations\201703141703191_InitialCreate.Designer.cs">
+      <DependentUpon>201703141703191_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141709228_ChangedChirpPK.cs" />
+    <Compile Include="Migrations\201703141709228_ChangedChirpPK.Designer.cs">
+      <DependentUpon>201703141709228_ChangedChirpPK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141713459_RenamedUserPK.cs" />
+    <Compile Include="Migrations\201703141713459_RenamedUserPK.Designer.cs">
+      <DependentUpon>201703141713459_RenamedUserPK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141723580_SetColumnLengths.cs" />
+    <Compile Include="Migrations\201703141723580_SetColumnLengths.Designer.cs">
+      <DependentUpon>201703141723580_SetColumnLengths.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141729199_SetTextSettings.cs" />
+    <Compile Include="Migrations\201703141729199_SetTextSettings.Designer.cs">
+      <DependentUpon>201703141729199_SetTextSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141741417_AddedImages.cs" />
+    <Compile Include="Migrations\201703141741417_AddedImages.Designer.cs">
+      <DependentUpon>201703141741417_AddedImages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141744362_MadeImagesMandatory.cs" />
+    <Compile Include="Migrations\201703141744362_MadeImagesMandatory.Designer.cs">
+      <DependentUpon>201703141744362_MadeImagesMandatory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141748109_SetTosharedKey.cs" />
+    <Compile Include="Migrations\201703141748109_SetTosharedKey.Designer.cs">
+      <DependentUpon>201703141748109_SetTosharedKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141801020_AddedChirpComments.cs" />
+    <Compile Include="Migrations\201703141801020_AddedChirpComments.Designer.cs">
+      <DependentUpon>201703141801020_AddedChirpComments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703141818174_AddedTags.cs" />
+    <Compile Include="Migrations\201703141818174_AddedTags.Designer.cs">
+      <DependentUpon>201703141818174_AddedTags.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703151030490_AddedFriends.cs" />
+    <Compile Include="Migrations\201703151030490_AddedFriends.Designer.cs">
+      <DependentUpon>201703151030490_AddedFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201703151109375_AddedPeople.cs" />
+    <Compile Include="Migrations\201703151109375_AddedPeople.Designer.cs">
+      <DependentUpon>201703151109375_AddedPeople.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="ModelConfigurations\ChImgConfiguration.cs" />
+    <Compile Include="ModelConfigurations\ChirpConfiguration.cs" />
+    <Compile Include="ModelConfigurations\UserConfiguration.cs" />
+    <Compile Include="Models\ChImg.cs" />
+    <Compile Include="Models\Chirp.cs" />
+    <Compile Include="Models\Comment.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Tag.cs" />
+    <Compile Include="Models\Town.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Startup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201703141703191_InitialCreate.resx">
+      <DependentUpon>201703141703191_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141709228_ChangedChirpPK.resx">
+      <DependentUpon>201703141709228_ChangedChirpPK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141713459_RenamedUserPK.resx">
+      <DependentUpon>201703141713459_RenamedUserPK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141723580_SetColumnLengths.resx">
+      <DependentUpon>201703141723580_SetColumnLengths.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141729199_SetTextSettings.resx">
+      <DependentUpon>201703141729199_SetTextSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141741417_AddedImages.resx">
+      <DependentUpon>201703141741417_AddedImages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141744362_MadeImagesMandatory.resx">
+      <DependentUpon>201703141744362_MadeImagesMandatory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141748109_SetTosharedKey.resx">
+      <DependentUpon>201703141748109_SetTosharedKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141801020_AddedChirpComments.resx">
+      <DependentUpon>201703141801020_AddedChirpComments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703141818174_AddedTags.resx">
+      <DependentUpon>201703141818174_AddedTags.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703151030490_AddedFriends.resx">
+      <DependentUpon>201703151030490_AddedFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703151109375_AddedPeople.resx">
+      <DependentUpon>201703151109375_AddedPeople.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

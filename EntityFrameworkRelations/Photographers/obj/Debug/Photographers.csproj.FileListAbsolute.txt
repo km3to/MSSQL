@@ -1,0 +1,17 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\Photographers.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\Photographers.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\Photographers.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.Initial.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.csproj.GenerateResource.Cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AddedAlbumsAndPictures.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AdditionOfTags.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AddOwnersToAlbums.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AddRoles.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\EntityFrameworkRelations\Photographers\obj\Debug\Photographers.Migrations.AddManyToMany.resources

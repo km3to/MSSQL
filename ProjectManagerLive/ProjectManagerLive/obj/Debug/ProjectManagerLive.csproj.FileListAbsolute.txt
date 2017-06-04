@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ProjectManagerLive\ProjectManagerLive\bin\Debug\ProjectManagerLive.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ProjectManagerLive\ProjectManagerLive\bin\Debug\ProjectManagerLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ProjectManagerLive\ProjectManagerLive\bin\Debug\ProjectManagerLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ProjectManagerLive\ProjectManagerLive\obj\Debug\ProjectManagerLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\ProjectManagerLive\ProjectManagerLive\obj\Debug\ProjectManagerLive.pdb

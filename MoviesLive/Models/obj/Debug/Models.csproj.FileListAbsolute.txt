@@ -1,0 +1,5 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Models\bin\Debug\Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Models\bin\Debug\Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Models\obj\Debug\Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Models\obj\Debug\Models.pdb

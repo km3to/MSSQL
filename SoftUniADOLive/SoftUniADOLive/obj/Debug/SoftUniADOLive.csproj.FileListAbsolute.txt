@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\SoftUniADOLive.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\SoftUniADOLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\SoftUniADOLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\obj\Debug\SoftUniADOLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\obj\Debug\SoftUniADOLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniADOLive\SoftUniADOLive\obj\Debug\SoftUniADOLive.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Client.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\AutoMapper.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\AutoMapper.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\obj\Debug\EmployeesApp.Client.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\obj\Debug\EmployeesApp.Client.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\obj\Debug\EmployeesApp.Client.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EmployeesApp.Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\AutomappingExercises\EmployeesApp.Client\bin\Debug\EntityFramework.SqlServer.xml

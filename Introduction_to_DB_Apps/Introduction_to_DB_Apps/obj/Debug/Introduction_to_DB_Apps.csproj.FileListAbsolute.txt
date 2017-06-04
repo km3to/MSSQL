@@ -1,0 +1,6 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Introduction_to_DB_Apps\Introduction_to_DB_Apps\bin\Debug\Introduction_to_DB_Apps.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Introduction_to_DB_Apps\Introduction_to_DB_Apps\bin\Debug\Introduction_to_DB_Apps.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Introduction_to_DB_Apps\Introduction_to_DB_Apps\bin\Debug\Introduction_to_DB_Apps.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Introduction_to_DB_Apps\Introduction_to_DB_Apps\obj\Debug\Introduction_to_DB_Apps.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Introduction_to_DB_Apps\Introduction_to_DB_Apps\obj\Debug\Introduction_to_DB_Apps.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Introduction_to_DB_Apps\Introduction_to_DB_Apps\obj\Debug\Introduction_to_DB_Apps.pdb

@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\PlanetHunters.Models.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\PlanetHunters.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\PlanetHunters.Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\obj\Debug\PlanetHunters.Models.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\obj\Debug\PlanetHunters.Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\PlanetHunters\PlanetHunters.Models\obj\Debug\PlanetHunters.Models.pdb

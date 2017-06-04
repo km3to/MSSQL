@@ -1,0 +1,13 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\VideoMigrations.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\VideoMigrations.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\VideoMigrations.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\obj\Debug\VideoMigrations.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\obj\Debug\VideoMigrations.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\obj\Debug\VideoMigrations.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\obj\Debug\VideoMigrations.Migrations.InitialCreate.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\obj\Debug\VideoMigrations.csproj.GenerateResource.Cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\VideoMigrations\obj\Debug\VideoMigrations.Migrations.AddColumnDescriptionToPtroducts.resources

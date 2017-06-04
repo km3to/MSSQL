@@ -1,0 +1,6 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\OldestFamilyMember\bin\Debug\OldestFamilyMember.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\OldestFamilyMember\obj\Debug\OldestFamilyMember.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\OldestFamilyMember\obj\Debug\OldestFamilyMember.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\CodeFirstOOPIntro-Exercises\OldestFamilyMember\obj\Debug\OldestFamilyMember.pdb

@@ -1,0 +1,14 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\Data.dll.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\Models.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\Models.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\obj\Debug\Data.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\obj\Debug\Data.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\obj\Debug\Data.Migrations.AddedMovieDuration.resources
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\MoviesLive\Data\obj\Debug\Data.csproj.GenerateResource.Cache

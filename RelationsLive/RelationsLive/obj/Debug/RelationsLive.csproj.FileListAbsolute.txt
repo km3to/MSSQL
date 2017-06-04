@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\RelationsLive.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\RelationsLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\RelationsLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\obj\Debug\RelationsLive.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\obj\Debug\RelationsLive.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\obj\Debug\RelationsLive.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\RelationsLive\RelationsLive\bin\Debug\EntityFramework.SqlServer.xml

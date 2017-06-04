@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\FootballManager.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\FootballManager.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\FootballManager.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\obj\Debug\FootballManager.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\obj\Debug\FootballManager.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\FootballManager\obj\Debug\FootballManager.pdb

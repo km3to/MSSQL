@@ -1,0 +1,6 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\Classes\bin\Debug\Classes.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\Classes\bin\Debug\Classes.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\Classes\bin\Debug\Classes.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\Classes\obj\Debug\Classes.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\SoftUniCodeFirstLive\Classes\obj\Debug\Classes.pdb

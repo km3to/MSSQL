@@ -1,0 +1,10 @@
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\LocalStore.exe.config
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\LocalStore.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\LocalStore.pdb
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\EntityFramework.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\EntityFramework.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\obj\Debug\LocalStore.csprojResolveAssemblyReference.cache
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\obj\Debug\LocalStore.exe
+C:\Users\gyurg\Documents\Visual Studio 2015\Projects\DB-Advanced\Migrations-Exercises\LocalStore\obj\Debug\LocalStore.pdb
